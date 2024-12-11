@@ -1,3 +1,6 @@
+//Viene effettuata un'attivazione dei relè in sequenza diretta e inversa
+
+
 // Define an array to hold the pin numbers for Opta's user LEDs.
 const int USER_LEDS[] = {LED_D0, LED_D1, LED_D2, LED_D3};
 
